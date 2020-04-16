@@ -1,0 +1,13 @@
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Chain\Documents\ISTA421\Labs\SportsStoreSource\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb

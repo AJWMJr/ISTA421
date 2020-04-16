@@ -1,0 +1,39 @@
+﻿@model Quiz11.Models.HumanRepository
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Home</title>
+    <style>
+        body { font-size: 20pt; }
+        h1 {
+            font-size: 30pt;
+            font-weight: bolder;
+            margin-bottom: 10px;
+        }
+        .person {
+            width: 300px;
+            margin: auto;
+            text-align:center;
+            display:inline-block;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    @foreach (var H in Model.HumansGet)
+    {
+        <div class="person">
+            <h1>@H.Name</h1>
+            <ul style="display:inline-block;text-align:left;margin-top:0">
+                <li>Age: @H.Age</li>
+                <li>Height: @H.Height</li>
+                <li>Weight: @H.Weight</li>
+                <li>Favorite Color: @H.FavColor</li>
+            </ul>
+        </div>
+    }
+</body>
+</html>

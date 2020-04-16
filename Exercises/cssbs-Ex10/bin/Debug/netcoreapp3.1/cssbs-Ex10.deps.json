@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cssbs-Ex10/1.0.0": {
+        "runtime": {
+          "cssbs-Ex10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cssbs-Ex10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

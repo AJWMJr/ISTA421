@@ -1,0 +1,5 @@
+C:\Users\Chain\Documents\Microsoft Press\VCSBS\Chapter 21\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Chain\Documents\Microsoft Press\VCSBS\Chapter 21\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Chain\Documents\Microsoft Press\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Chain\Documents\Microsoft Press\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\Chain\Documents\Microsoft Press\VCSBS\Chapter 21\BinaryTree\obj\Debug\BinaryTree.pdb

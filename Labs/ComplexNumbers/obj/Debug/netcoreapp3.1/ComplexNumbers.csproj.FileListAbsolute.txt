@@ -1,0 +1,11 @@
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.exe
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.deps.json
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.json
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.dev.json
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.pdb
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfo.cs
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.dll
+C:\Users\Chain\Documents\ISTA421\Labs\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.pdb
